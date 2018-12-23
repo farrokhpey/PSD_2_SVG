@@ -5,6 +5,6 @@ in this project i created a PSD file like below image to impoert it into Android
 
 <image src='32.png' />
 
-you can see more in this link <a href='https://start2develop.blogspot.com' >ssssddd</a> and also there is a youtube video that you can check it.
+you can see more in this link <a href='https://start2develop.blogspot.com' >Start2Develop</a> and also there is a youtube video that you can check it.
 
 goodluck
